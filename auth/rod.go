@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/rusq/slackauth"
+	"github.com/considine/slackauth"
 
 	"github.com/rusq/slackdump/v3/auth/auth_ui"
 	"github.com/rusq/slackdump/v3/logger"
